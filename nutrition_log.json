@@ -16,8 +16,8 @@
   },
   "2026-W19": {
     "friday": {
-      "protein": 38,
-      "food": "ontbijt:38g"
+      "protein": 104,
+      "food": "ontbijt:38g, lunch:66g"
     },
     "monday": null,
     "tuesday": null,
