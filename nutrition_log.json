@@ -10,19 +10,7 @@
     },
     "wednesday": null,
     "thursday": {"protein": 104, "food": "ontbijt:38g, lunch:66g"},
-    "friday": null,
-    "saturday": null,
-    "sunday": null
-  },
-  "2026-W19": {
-    "friday": {
-      "protein": 154,
-      "food": "ontbijt:38g, lunch:66g, diner:50g"
-    },
-    "monday": null,
-    "tuesday": null,
-    "wednesday": null,
-    "thursday": null,
+    "friday": {"protein": 154, "food": "ontbijt:38g, lunch:66g, diner:50g"},
     "saturday": null,
     "sunday": null
   }

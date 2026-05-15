@@ -67,7 +67,7 @@ def write_log(log: dict, sha: str, msg: str = "bot update"):
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def week_key():
-    return datetime.now().strftime("%Y-W%W")
+    return datetime.now().strftime("%G-W%V")
 
 def day_key():
     return DAYS_EN[date.today().weekday()]

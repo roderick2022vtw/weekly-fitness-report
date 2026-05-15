@@ -110,4 +110,4 @@ def _estimate_protein_from_food(client: Anthropic, food_description: str) -> int
 
 def _current_week_key() -> str:
     now = datetime.now()
-    return now.strftime("%Y-W%W")
+    return now.strftime("%G-W%V")
