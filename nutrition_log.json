@@ -9,9 +9,18 @@
       "food": "4 eggs, 125g huttenkase, 2 toasts, 300g kwark, 200g kipfilet, protein shake"
     },
     "wednesday": null,
-    "thursday": {"protein": 104, "food": "ontbijt:38g, lunch:66g"},
-    "friday": {"protein": 154, "food": "ontbijt:38g, lunch:66g, diner:50g"},
-    "saturday": null,
+    "thursday": {
+      "protein": 104,
+      "food": "ontbijt:38g, lunch:66g"
+    },
+    "friday": {
+      "protein": 154,
+      "food": "ontbijt:38g, lunch:66g, diner:50g"
+    },
+    "saturday": {
+      "protein": 40,
+      "food": "ontbijt:40g"
+    },
     "sunday": null
   }
 }
